@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class MobileScreen extends StatelessWidget {
   const MobileScreen({Key? key}) : super(key: key);
-
+//ok that's good
   @override
   Widget build(BuildContext context) {
     return Scaffold(
